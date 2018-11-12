@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1538519848 source:d:\flores_gonzalo_1f\floresparcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538528274 source:d:\flores_gonzalo_1f\floresparcial\clientejuego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ClienteJuego.h"
+
+1538528274 d:\flores_gonzalo_1f\floresparcial\clientejuego.h
+
+1538974262 source:c:\users\gonza\desktop\flores_gonzalo_1f\floresparcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539023515 source:c:\users\gonza\desktop\flores_gonzalo_1f\floresparcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Clientes.h"
+	"input.h"
+
+1539025308 c:\users\gonza\desktop\flores_gonzalo_1f\floresparcial\clientes.h
+
+1539030313 c:\users\gonza\desktop\flores_gonzalo_1f\floresparcial\juegos.h
+
+1538974262 c:\users\gonza\desktop\flores_gonzalo_1f\floresparcial\input.h
+
+1539024688 source:c:\users\gonza\desktop\flores_gonzalo_1f\floresparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"Clientes.h"
+	"Juegos.h"
+
+1539030313 source:c:\users\gonza\desktop\flores_gonzalo_1f\floresparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"Juegos.h"
+	"Clientes.h"
+
+1539015058 source:c:\users\gonza\desktop\flores_gonzalo_1f\floresparcial\alquileres.c
+
+1539036524 source:c:\users\alumno\desktop\laboratorio parcial\floresparcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Clientes.h"
+	"input.h"
+
+1539030542 c:\users\alumno\desktop\laboratorio parcial\floresparcial\clientes.h
+
+1539036903 c:\users\alumno\desktop\laboratorio parcial\floresparcial\input.h
+
+1539039316 source:c:\users\alumno\desktop\laboratorio parcial\floresparcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539040040 source:c:\users\alumno\desktop\laboratorio parcial\floresparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"Juegos.h"
+	"Clientes.h"
+
+1539041011 c:\users\alumno\desktop\laboratorio parcial\floresparcial\juegos.h
+
+1539039482 source:c:\users\alumno\desktop\laboratorio parcial\floresparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"Clientes.h"
+	"Juegos.h"
+
+1539036524 source:c:\users\alumno\desktop\flores_gonzalo_1f\floresparcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Clientes.h"
+	"input.h"
+
+1539030542 c:\users\alumno\desktop\flores_gonzalo_1f\floresparcial\clientes.h
+
+1539036903 c:\users\alumno\desktop\flores_gonzalo_1f\floresparcial\input.h
+
+1539039316 source:c:\users\alumno\desktop\flores_gonzalo_1f\floresparcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539044859 source:c:\users\alumno\desktop\flores_gonzalo_1f\floresparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"Juegos.h"
+	"Clientes.h"
+
+1539044706 c:\users\alumno\desktop\flores_gonzalo_1f\floresparcial\juegos.h
+
+1539036524 source:c:\users\alumno\desktop\flores_gonzalo_1f\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Clientes.h"
+	"input.h"
+
+1539030542 c:\users\alumno\desktop\flores_gonzalo_1f\clientes.h
+
+1539036903 c:\users\alumno\desktop\flores_gonzalo_1f\input.h
+
+1539039316 source:c:\users\alumno\desktop\flores_gonzalo_1f\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539045163 source:c:\users\alumno\desktop\flores_gonzalo_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"Clientes.h"
+	"Juegos.h"
+
+1539045403 c:\users\alumno\desktop\flores_gonzalo_1f\juegos.h
+
+1539046329 source:c:\users\gonza\desktop\flores_gonzalo_1f\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Clientes.h"
+	"input.h"
+
+1539582733 c:\users\gonza\desktop\flores_gonzalo_1f\clientes.h
+
+1539046329 c:\users\gonza\desktop\flores_gonzalo_1f\input.h
+
+1542051324 source:c:\users\gonza\desktop\flores_gonzalo_1f\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1540919921 source:c:\users\gonza\desktop\flores_gonzalo_1f\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"Juegos.h"
+
+1540319413 c:\users\gonza\desktop\flores_gonzalo_1f\juegos.h
+
+1542041703 source:c:\users\gonza\desktop\flores_gonzalo_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"negocio.h"
+
+1542033188 c:\users\gonza\desktop\flores_gonzalo_1f\negocio.h
+
+1542050993 source:c:\users\gonza\desktop\flores_gonzalo_1f\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"negocio.h"
+
