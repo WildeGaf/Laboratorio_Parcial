@@ -477,6 +477,14 @@ void promedioJuegosAlquilados(eJuegos* listaJ,int lenJ,eAlquiler* listaA,int len
     promedio = total/contador;
     printf("\nEl promedio de los juegos alquilados es de :$ %d",promedio);
     printf("\nEl total de los juegos alquilados es de :$ %d",total);
+    printf ("\n\n Los juegos que no superan el promedio son: \n");
+    for (i=0;i<lenJ;i++){
+        if (listaJ[i].importe < promedio){
+            printf("Descripcion: %s",listaJ[i].descripcion);
+            printf("Importe: %d",listaJ[i].importe);
+        }
+
+    }
 }
 
 //punto C
@@ -673,18 +681,21 @@ void ordenarJuegosInforme(eJuegos* lista, int len){
 
 //Punto J
 
-/*
+
 void OrdenarClientesInsercion(eCliente* listaC,int lenC){
     int i,pos;
-    eCliente* auxLista;
+    eCliente auxLista;
+    clientesToupper(listaC,lenC);
     for (i=0;i<lenC;i++){
         pos = i;
         auxLista = listaC[i];
-        while ((pos>0)&& (auxLista < listaC[pos-1])){
-            listaC[pos] = lista[pos-1];
-            pos--;
+        if (listaC[i].isEmpty == 1){
+            while ((pos > 0) && strcmp(auxLista.apellido,listaC[pos-1].apellido)<0){
+                listaC[pos] = listaC[pos-1];
+                pos--;
+            }
+            listaC[pos] = auxLista;
         }
-        listaC[pos] = auxLista;
     }
 for (i=0;i<lenC;i++){
     printf("\n\nApellido: %s",listaC[i].apellido);
@@ -693,5 +704,10 @@ for (i=0;i<lenC;i++){
     printf("\nTelefono: %s",listaC[i].telefono);
 }
 }
-*/
 
+void clientesToupper(eCliente* listaC,int lenC){
+    int i;
+    for (i=0;i<lenC;i++){
+        strupr(listaC[i].apellido);
+    }
+}

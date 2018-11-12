@@ -157,15 +157,15 @@
 
 1540319413 c:\users\gonza\desktop\flores_gonzalo_1f\juegos.h
 
-1542041703 source:c:\users\gonza\desktop\flores_gonzalo_1f\main.c
+1542055248 source:c:\users\gonza\desktop\flores_gonzalo_1f\main.c
 	<stdio.h>
 	<stdlib.h>
 	"input.h"
 	"negocio.h"
 
-1542033188 c:\users\gonza\desktop\flores_gonzalo_1f\negocio.h
+1542055445 c:\users\gonza\desktop\flores_gonzalo_1f\negocio.h
 
-1542050993 source:c:\users\gonza\desktop\flores_gonzalo_1f\negocio.c
+1542054839 source:c:\users\gonza\desktop\flores_gonzalo_1f\negocio.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
