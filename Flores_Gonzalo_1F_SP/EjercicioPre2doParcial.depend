@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1543280995 source:d:\flores_gonzalo_1f_sp\sp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1543279280 d:\flores_gonzalo_1f_sp\sp\linkedlist.h
+
+1543279188 d:\flores_gonzalo_1f_sp\sp\empleado.h
+
+1542680306 d:\flores_gonzalo_1f_sp\sp\parser.h
+
+1542680306 d:\flores_gonzalo_1f_sp\sp\input.h
+
+1543273955 d:\flores_gonzalo_1f_sp\sp\controller.h
+
+1543280542 source:d:\flores_gonzalo_1f_sp\sp\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1542680306 source:d:\flores_gonzalo_1f_sp\sp\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1543278966 source:d:\flores_gonzalo_1f_sp\sp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1543281038 source:d:\flores_gonzalo_1f_sp\sp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1543279527 source:d:\flores_gonzalo_1f_sp\sp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1543280995 source:c:\users\alumno\desktop\flores_gonzalo_1f_sp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1543279188 c:\users\alumno\desktop\flores_gonzalo_1f_sp\empleado.h
+
+1543279280 c:\users\alumno\desktop\flores_gonzalo_1f_sp\linkedlist.h
+
+1542680306 c:\users\alumno\desktop\flores_gonzalo_1f_sp\parser.h
+
+1543273955 c:\users\alumno\desktop\flores_gonzalo_1f_sp\controller.h
+
+1542680306 c:\users\alumno\desktop\flores_gonzalo_1f_sp\input.h
+
+1543280542 source:c:\users\alumno\desktop\flores_gonzalo_1f_sp\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1542680306 source:c:\users\alumno\desktop\flores_gonzalo_1f_sp\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+
+1543278966 source:c:\users\alumno\desktop\flores_gonzalo_1f_sp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1543281038 source:c:\users\alumno\desktop\flores_gonzalo_1f_sp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
+1543279527 source:c:\users\alumno\desktop\flores_gonzalo_1f_sp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"controller.h"
+	"input.h"
+
